@@ -4,19 +4,19 @@ using namespace std;
 int main()
 {
     
-    int AnoNacido;
-    int AnoActual;
+    int yearNacido;
+    int yearActual;
     int Resultado;
 
 
     cout<< "Ingrese el year en cual naciste: ";
-    cin >> AnoNacido;
+    cin >> yearNacido;
 
 
     cout<< "Ingrese el year actual: ";
-    cin >> AnoActual;
+    cin >> yearActual;
     
-    Resultado = AnoActual - AnoNacido;
+    Resultado = yearActual - yearNacido;
     cout <<"La edad aproximada actual es: " <<Resultado<<endl;
     
     return 0;
