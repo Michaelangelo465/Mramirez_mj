@@ -12,5 +12,5 @@ int main()
 
     cout <<"La edad aproximada actual es: " <<area<<endl;
 
-
+    return 0;
 }
