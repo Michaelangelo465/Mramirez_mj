@@ -7,7 +7,7 @@ int main()
     double radio, area;
     const double PI = 3.14;
 
-    cout<< "Ingrese la media del radio: ";
+    cout<< "Ingrese la medida del radio: ";
     cin >> radio;
 
     area = PI * radio * radio;
