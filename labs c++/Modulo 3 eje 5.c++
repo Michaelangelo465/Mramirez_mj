@@ -3,17 +3,17 @@ using namespace std;
 
 int main()
 {
-    int altura, base, area;
-//buscamos la basev y altura para encontrar la base//
-    cout<<"Ingresa la base: ";
+    double altura, base, area;
+    //buscamos la base y altura para encontrar el area//
+    cout<<"Ingresa la medida de la base: ";
     cin>> base;
 
-    cout<<"Ingresa el altura: ";
+    cout<<"Ingresa la medida de la altura: ";
     cin>> altura;
 
     area = base * altura;
     
-    cout <<"La distancia fue "<<distancia<< " en total."<<endl;
+    cout <<"El area del rectangulo es: "<<area<<endl;
 
     return 0;
 }

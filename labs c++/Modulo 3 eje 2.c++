@@ -3,17 +3,17 @@ using namespace std;
 
 int main()
 {
-    int velocidad, tiempo, distancia;
-
-    cout<<"Ingresa la velocidad: ";
+    double velocidad, tiempo, distancia;
+    //buscamos la velocidad y tiempo//
+    cout<<"Ingresa la velocidad en km/hr: ";
     cin>> velocidad;
 
-    cout<<"Ingresa el tiempo: ";
+    cout<<"Ingresa el tiempo en hrs: ";
     cin>> tiempo;
 
     distancia = velocidad * tiempo;
-    
-    cout <<"La distancia fue "<<distancia<< " en total."<<endl;
+    //se encuentra la distancia//
+    cout <<"La distancia recorrida fue "<<distancia<< " km en total."<<endl;
 
     return 0;
 }
