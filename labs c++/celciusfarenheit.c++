@@ -10,6 +10,6 @@ int main()
 
     fahrenheit = celsius * 9/5 + 32;
 
-    cout <<"El promedio fue "<<fahrenheit<< " de las notas."<<endl;
+    cout <<"La temperatura en Fahrenheit: "<<fahrenheit<< "."<<endl;
     return 0;
 }
