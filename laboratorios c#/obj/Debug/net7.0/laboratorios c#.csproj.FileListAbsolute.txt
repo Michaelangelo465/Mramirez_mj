@@ -1,0 +1,4 @@
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\obj\Debug\net7.0\laboratorios c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\obj\Debug\net7.0\laboratorios c#.AssemblyInfoInputs.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\obj\Debug\net7.0\laboratorios c#.AssemblyInfo.cs
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\obj\Debug\net7.0\laboratorios c#.csproj.CoreCompileInputs.cache
