@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Act_Ciclo_Mod5/1.0.0": {
+        "runtime": {
+          "Act_Ciclo_Mod5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act_Ciclo_Mod5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

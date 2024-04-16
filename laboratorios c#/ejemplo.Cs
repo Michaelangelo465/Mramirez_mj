@@ -8,7 +8,7 @@ class Program {
         Console.Write("Ingrese un número flotante: ");
         float flotante = float.Parse(Console.ReadLine());
 
-        onsole.Write("Ingrese un carácter: ");
+        Console.Write("Ingrese un carácter: ");
         char caracter = char.Parse(Console.ReadLine());
         
         Console.Write("Ingrese una cadena de caracteres: ");

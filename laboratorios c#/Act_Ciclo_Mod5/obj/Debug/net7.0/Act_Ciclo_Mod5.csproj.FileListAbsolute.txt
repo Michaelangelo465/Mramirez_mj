@@ -1,0 +1,14 @@
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\bin\Debug\net7.0\Act_Ciclo_Mod5.exe
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\bin\Debug\net7.0\Act_Ciclo_Mod5.deps.json
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\bin\Debug\net7.0\Act_Ciclo_Mod5.runtimeconfig.json
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\bin\Debug\net7.0\Act_Ciclo_Mod5.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\bin\Debug\net7.0\Act_Ciclo_Mod5.pdb
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.AssemblyInfoInputs.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.AssemblyInfo.cs
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.csproj.CoreCompileInputs.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\refint\Act_Ciclo_Mod5.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.pdb
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\Act_Ciclo_Mod5.genruntimeconfig.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\Act_Ciclo_Mod5\obj\Debug\net7.0\ref\Act_Ciclo_Mod5.dll
