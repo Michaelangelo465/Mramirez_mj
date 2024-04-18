@@ -1,0 +1,14 @@
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\bin\Debug\net7.0\mod5act2.exe
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\bin\Debug\net7.0\mod5act2.deps.json
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\bin\Debug\net7.0\mod5act2.runtimeconfig.json
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\bin\Debug\net7.0\mod5act2.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\bin\Debug\net7.0\mod5act2.pdb
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.AssemblyInfoInputs.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.AssemblyInfo.cs
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.csproj.CoreCompileInputs.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\refint\mod5act2.dll
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.pdb
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\mod5act2.genruntimeconfig.cache
+C:\Users\arlin\Desktop\COMP2315\laboratorios c#\mod5act2\obj\Debug\net7.0\ref\mod5act2.dll

@@ -11,7 +11,7 @@ namespace MOD5Act1Cicloprob2
             string nombre = Console.ReadLine();
             
             for (int i=0; i<11; i++) {
-                Console.WriteLine("Hola" + nombre + "!");
+                Console.WriteLine("Hola " + nombre + "!");
 
             }
                 
