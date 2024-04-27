@@ -10,7 +10,7 @@ namespace mod5act2
             //float Temperatura;
             while (i <= 12)
             {
-                Console.WriteLine("Mes #" + i + ":");
+                Console.WriteLine("Mes #" + i + ":"); //buscamos la temperatura de todos los 12 meses
                 Console.Write("Ingrese la temperatura del mes: ", i);
                 float Temperatura = float.Parse(Console.ReadLine());
                
@@ -18,7 +18,7 @@ namespace mod5act2
                 i++;
             }
             
-            double promedio = suma / 12;
+            double promedio = suma / 12; //se consigue el promedio de los 12 meses
             Console.WriteLine("EL promedio de las temperatura de los 12 meses es: " + promedio);    
         }         
             
