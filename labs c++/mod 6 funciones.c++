@@ -33,6 +33,3 @@ double Sueldo(double ventas)  //funcion
 
         
 }
-    
-
-
